@@ -16,7 +16,3 @@ The weight is in weight.xlsx
 For training the FPNN
 
 python main.py
-
-
-
-
