@@ -13,6 +13,6 @@ Please download the data of enabler scores from https://github.com/dralexnasiria
 The weight is in weight.xlsx
 
 # Usage
-For training the FPNN
+For training the FPNN: 
 
 python main.py
