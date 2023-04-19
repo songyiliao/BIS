@@ -2,6 +2,8 @@
 
 This is the code for FPNN implementation. 
 
+Please also refer to https://github.com/dralexnasirian/BIS/tree/main for the Monte Carlo simulation
+
 # Install
 PyTorch package (version 1.13.1)
 Pandas (version 1.5.3)
