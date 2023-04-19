@@ -6,7 +6,9 @@ Please also refer to https://github.com/dralexnasirian/BIS/tree/main for the Mon
 
 # Install
 PyTorch package (version 1.13.1)
+
 Pandas (version 1.5.3)
+
 Numpy (version 1.24.2)
 
 # Dataset
